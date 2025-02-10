@@ -1,0 +1,24 @@
+{
+  "flashCards": [
+    {
+      "id": "1",
+      "frontText": "What is Vue?",
+      "backText": "Vue is a JavaScript framework for building SPAs."
+    },
+    {
+      "id": "2",
+      "frontText": "What is Nuxt?",
+      "backText": "Nuxt is a meta-framework that uses Vue to build Webpages that can be rendered on the client and the server"
+    },
+    {
+      "id": "3",
+      "frontText": "What is Pinia?",
+      "backText": "Pinia is the current gold-standard state management library for Vue. Simpler than VueX"
+    },
+    {
+      "id": "4",
+      "frontText": "What are the lifecycle methods in Vue?",
+      "backText": "setup, beforeCreate, onCreated, beforeMount, onMount, beforeUpdate, onUpdate, beforeUnmount, onUnmounted"
+    }
+  ]
+}
